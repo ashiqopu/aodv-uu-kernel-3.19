@@ -57,7 +57,7 @@
 #define NS_CLASS
 #define NS_OUTSIDE_CLASS
 #define NS_STATIC static
-#define NS_INLINE inline
+#define NS_INLINE //inline
 #endif
 
 #define AODV_UU_VERSION "0.9"
