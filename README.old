@@ -1,4 +1,4 @@
-## Note: This source code was successfully tested on Ubuntu 18.04 with kernel versions 3.19.0 and 3.19.8 and on Raspberry Pi 2 with kernel version 4.0.5 (Need to modify the `/etc/network/interfaces` to properly connect to the USB wifi dongle). No code modification needed for raspberry pi. Only the kernel sources are need which can be done following 2nd comment on this discussion link: https://stackoverflow.com/questions/20167411/how-to-compile-a-kernel-module-for-raspberry-pi . The discussion link is also available as a pdf in this repo named `RPi-build.pdf`.
+## Note: This source code was successfully tested on Ubuntu 15.04 with kernel versions 3.19.0 and 3.19.8
 
 Introduction
 ============
